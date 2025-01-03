@@ -15,20 +15,20 @@ tags:
 Cities around the world are transforming their centers into vibrant, people-first spaces:
 
 ### Europe
-- **Oslo, Norway**: Removed nearly all parking from city center, increased retail activity
-- **Paris, France**: Removing 70,000 parking spaces, creating "15-minute city"
-- **Barcelona, Spain**: Superblocks prioritize pedestrians and cyclists
-- **Copenhagen, Denmark**: Gradual pedestrianization since 1960s
+- **Oslo, Norway**: [Removed nearly all parking from city center](https://www.bloomberg.com/news/articles/2019-09-19/oslo-isn-t-removing-all-of-its-parking-spaces-yet), increased retail activity
+- **Paris, France**: [Removing 70,000 parking spaces](https://www.theguardian.com/world/2020/jan/21/paris-mayor-unveils-15-minute-city-plan-in-re-election-campaign), creating "15-minute city"
+- **Barcelona, Spain**: [Superblocks prioritize pedestrians](https://www.bloomberg.com/news/articles/2020-11-11/barcelona-s-new-car-free-superblock-will-be-big) and cyclists
+- **Copenhagen, Denmark**: [Gradual pedestrianization since 1960s](https://www.visitcopenhagen.com/copenhagen/planning/stroget-gdk414471)
 
 ### North America
-- **New York City**: Times Square pedestrian plaza
-- **San Francisco**: Market Street car-free zone
-- **Montreal**: Extensive pedestrian streets and bike lanes
+- **New York City**: [Times Square pedestrian plaza](https://www.nyc.gov/html/dot/html/pedestrians/broadway.shtml)
+- **San Francisco**: [Market Street car-free zone](https://www.sfmta.com/projects/better-market-street)
+- **Montreal**: [Extensive pedestrian streets](https://montreal.ca/en/articles/pedestrian-streets-and-shared-streets-montreal-20679) and bike lanes
 
 ### Asia-Pacific
-- **Singapore**: Car-free Sundays in central business district
-- **Melbourne**: Little Streets project
-- **Auckland**: Fort Street shared space
+- **Singapore**: [Car-free Sundays](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Car-Free-Zone) in central business district
+- **Melbourne**: [Little Streets project](https://www.melbourne.vic.gov.au/building-and-development/shaping-the-city/city-projects/Pages/little-streets.aspx)
+- **Auckland**: [Fort Street shared space](https://at.govt.nz/projects-roadworks/city-centre-shared-spaces/)
 
 ## Key Benefits Seen Worldwide
 
