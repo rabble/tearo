@@ -90,18 +90,43 @@ tags:
   - infrastructure
 ---
 
-Living streets, or "woonerfs," are shared spaces where pedestrians and cyclists have priority over vehicles. These streets are designed to be social spaces first and transport corridors second.
+## Reimagining Wellington's Soul: The Power of Living Streets
 
-Te Aro is perfect for living streets because:
-- Dense mix of residential and commercial uses
-- Many narrow streets ideal for shared spaces
-- Strong existing pedestrian culture
-- Need for more public spaces and green areas
+Wellington has always been different. Our capital isn't just a seat of government—it's a vibrant crucible of creativity, culture, and connection. From Cuba Street's artistic energy to the bohemian cafes tucked away in hidden laneways, Wellington's heart beats strongest where people can freely gather, create, and connect. Living streets, or "woonerfs" as the Dutch pioneers called them, aren't just about changing how we move—they're about unleashing our city's full potential.
 
-Examples of potential living streets in Te Aro:
-- Leeds Street
-- Eva Street
-- Egmont Street
-- Frederick Street
+## Why Living Streets Matter Now More Than Ever
 
-These transformations would create more livable spaces while maintaining necessary access for residents and deliveries.
+In an age where cities compete globally for talent and energy, Wellington's future lies in doubling down on what makes us unique. Our compact, walkable center has always been our strength. [Research shows](https://www.sciencedirect.com/science/article/pii/S2214140518301488) that creatives, entrepreneurs, and innovators are increasingly drawn to cities that prioritize human-scale environments and sustainable living. Living streets aren't just infrastructure—they're a declaration that Wellington chooses people over cars, community over commuting, and vibrant street life over vacant parking lots.
+
+## Te Aro: The Perfect Canvas for Transformation
+
+Te Aro isn't just ready for living streets—it's crying out for them. Our neighborhood's character is built on:
+- A rich tapestry of heritage buildings and creative spaces
+- An existing network of intimate laneways and pedestrian connections
+- A thriving cafe and cultural scene that spills onto the streets
+- A growing community of urban residents seeking connection
+- A proven track record with spaces like Cuba Street showing the way
+
+## Where Magic Could Happen
+
+Imagine these streets transformed:
+- **Leeds Street**: Extending the success of Hannahs Laneway, creating a continuous creative corridor
+- **Eva Street**: A food and culture destination linking Dixon to Ghuznee
+- **Egmont Street**: A green corridor connecting apartment communities
+- **Frederick Street**: Linking Te Aro Park to the creative quarter
+- **Marion Street**: A vibrant connection between Cuba and Taranaki
+
+Each of these could become a unique destination while maintaining essential access for residents and deliveries. Picture children playing safely, artists displaying their work, cafes spilling outdoors, and neighbors actually knowing neighbors again.
+
+## A Vision for Wellington's Future
+
+Living streets aren't just about transport—they're about creating the conditions for Wellington's creative spirit to thrive. When we slow traffic and prioritize people, we:
+- Foster the spontaneous interactions that spark innovation
+- Create spaces for pop-up events and street art
+- Support local businesses by increasing foot traffic
+- Build resilient communities that know and support each other
+- Attract and retain the creative talent that makes Wellington unique
+
+The evidence from cities worldwide is clear: when you create human-centered streets, [culture and commerce flourish](https://www.strongtowns.org/journal/2018/1/16/why-walkable-streets-are-more-economically-productive). Wellington, with its compact form and creative soul, is perfectly positioned to become a global example of how living streets can transform a city.
+
+[Learn more about the economic benefits of walkable streets](https://www.bloomberg.com/news/articles/2012-03-02/walkable-neighborhoods-are-good-for-your-health)
