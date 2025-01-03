@@ -77,3 +77,31 @@ Successful living streets worldwide:
 - **Copenhagen**: Strøget area expansion
 
 [Learn more about living streets](https://nacto.org/publication/urban-street-design-guide/streets/residential-shared-street/)
+---
+layout: ../../layouts/project.astro
+title: Living Streets for Te Aro
+client: Self
+publishDate: 2023-03-02 00:00:00
+img: /assets/cuba_street.webp
+description: |
+  How living streets could transform our neighborhood into a more vibrant, people-friendly space.
+tags:
+  - design
+  - infrastructure
+---
+
+Living streets, or "woonerfs," are shared spaces where pedestrians and cyclists have priority over vehicles. These streets are designed to be social spaces first and transport corridors second.
+
+Te Aro is perfect for living streets because:
+- Dense mix of residential and commercial uses
+- Many narrow streets ideal for shared spaces
+- Strong existing pedestrian culture
+- Need for more public spaces and green areas
+
+Examples of potential living streets in Te Aro:
+- Leeds Street
+- Eva Street
+- Egmont Street
+- Frederick Street
+
+These transformations would create more livable spaces while maintaining necessary access for residents and deliveries.

@@ -83,3 +83,27 @@ How to support climate-friendly streets:
 - [Wellington's Climate Action Plan](https://wellington.govt.nz/climate-change-sustainability-environment/climate-change)
 - [C40 Cities Climate Leadership Group](https://www.c40.org)
 - [Global Designing Cities Initiative](https://globaldesigningcities.org)
+---
+layout: ../../layouts/project.astro
+title: Climate Action Through Better Streets
+client: Self
+publishDate: 2023-03-03 00:00:00
+img: /assets/Wellington_City_at_dusk.jpeg
+description: |
+  How car-free streets help fight climate change and create a more sustainable city.
+tags:
+  - climate
+  - future
+---
+
+Transportation is a major source of greenhouse gas emissions. Creating car-free zones in Te Aro would:
+
+1. Reduce direct emissions from vehicles
+2. Enable more walking and cycling
+3. Support public transport usage
+4. Create space for green infrastructure
+5. Encourage local shopping and reduced travel
+
+Wellington has committed to being carbon neutral by 2050. Car-free streets are an essential part of meeting this goal while creating a more livable city.
+
+Research shows that car-free zones can reduce local emissions by up to 40% while improving air quality and public health.

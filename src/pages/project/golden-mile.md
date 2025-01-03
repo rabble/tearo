@@ -69,3 +69,26 @@ The Golden Mile transformation needs public support to succeed. Here's how to he
 - Advocate for extending changes to other streets
 
 [Learn more at Let's Get Wellington Moving](https://lgwm.nz/golden-mile)
+---
+layout: ../../layouts/project.astro
+title: The Golden Mile Project
+client: Self
+publishDate: 2023-03-01 00:00:00
+img: /assets/wellington_waterfront.png
+description: |
+  Wellington's biggest step toward people-first streets - transforming our main thoroughfare.
+tags:
+  - current
+  - infrastructure
+---
+
+The Golden Mile project is Wellington's most significant step toward a people-first city center. This transformation will remove private vehicles from Lambton Quay, Willis Street, Manners Street, and Courtenay Place, creating a more vibrant and accessible heart of the city.
+
+Key features of the project:
+- Wider footpaths for pedestrians
+- Dedicated bus lanes for more efficient public transport
+- New spaces for outdoor dining and public life
+- Improved cycling infrastructure
+- Better accessibility for all users
+
+This project demonstrates Wellington's commitment to sustainable urban development and sets the stage for further car-free initiatives in Te Aro.
