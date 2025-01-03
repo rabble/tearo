@@ -50,48 +50,22 @@ const projects = (await Astro.glob<Project>('./project/**/*.md'))
 				<div class="section">
 					<h2>Current Projects</h2>
 					<div class="cards">
-						<ProjectCard
-							title="The Golden Mile Project"
-							description="Wellington's biggest step toward people-first streets"
-							href="/project/golden-mile"
-							tags={["current", "infrastructure"]}
-						/>
-						<ProjectCard
-							title="Living Streets for Te Aro"
-							description="How living streets could transform our neighborhood"
-							href="/project/living-streets"
-							tags={["design", "infrastructure"]}
-						/>
+						{projects.filter(project => 
+							project.frontmatter.tags.some(tag => ["current", "infrastructure"].includes(tag))
+						).map((project) => (
+							<PortfolioPreview project={project} />
+						))}
 					</div>
 				</div>
 
 				<div class="section">
 					<h2>Key Topics</h2>
 					<div class="cards">
-						<ProjectCard
-							title="Climate Action Through Better Streets"
-							description="How car-free streets help fight climate change"
-							href="/project/climate-action"
-							tags={["climate", "future"]}
-						/>
-						<ProjectCard
-							title="Why Car Free?"
-							description="The case for a car-free Te Aro"
-							href="/project/why-car-free"
-							tags={["background"]}
-						/>
-						<ProjectCard
-							title="Business Benefits"
-							description="How car-free streets boost local business"
-							href="/project/what-about-businesses"
-							tags={["background"]}
-						/>
-						<ProjectCard
-							title="Other Cities"
-							description="Learning from car-free success stories"
-							href="/project/other-cities"
-							tags={["examples"]}
-						/>
+						{projects.filter(project => 
+							!project.frontmatter.tags.some(tag => ["current", "infrastructure"].includes(tag))
+						).map((project) => (
+							<PortfolioPreview project={project} />
+						))}
 					</div>
 				</div>
 			</div>
