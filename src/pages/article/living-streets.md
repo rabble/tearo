@@ -130,3 +130,15 @@ Living streets aren't just about transport—they're about creating the conditio
 The evidence from cities worldwide is clear: when you create human-centered streets, [culture and commerce flourish](https://www.strongtowns.org/journal/2018/1/16/why-walkable-streets-are-more-economically-productive). Wellington, with its compact form and creative soul, is perfectly positioned to become a global example of how living streets can transform a city.
 
 [Learn more about the economic benefits of walkable streets](https://www.bloomberg.com/news/articles/2012-03-02/walkable-neighborhoods-are-good-for-your-health)
+
+## A Solarpunk Vision for Wellington 2040
+
+Imagine stepping out onto a transformed Wellington street in 2040. The morning sun glints off solar-collecting windows and green walls cascade down heritage buildings. The air is clean and fresh, carried on sea breezes that flow unimpeded through [urban forests](https://www.wellington.govt.nz/climate-change-sustainability-environment/environment-and-natural-resources/urban-forest-plan) that have sprung up in former parking lots.
+
+Children weave through native plantings on their way to school, stopping to pick fruit from community gardens that dot the neighborhood. The streets themselves have become living ecosystems—permeable surfaces collect rainwater, while indigenous plants attract tūī and kākā back to the city center. Local artists have transformed utility boxes and walls into celebrations of Māori and Pasifika culture, telling stories of both past and future.
+
+The transformation goes beyond aesthetics. Small [urban food forests](https://www.stuff.co.nz/environment/300533353/wellingtons-first-urban-food-forest-takes-root-in-berhampore) and rooftop gardens supply local cafes, while solar-powered community hubs serve as spaces for working, learning, and gathering. The city's famous creative energy has exploded as people reclaim streets for impromptu performances, pop-up galleries, and street festivals. The barriers between indoors and outdoors have blurred, with buildings opening onto streets that function as communal living rooms.
+
+This isn't just a dream—it's a achievable future that builds on Wellington's existing strengths. Our compact city, progressive values, and connection to nature make us the perfect candidate for this transformation. By embracing living streets now, we're not just changing our infrastructure—we're laying the groundwork for a more resilient, sustainable, and vibrant Wellington that future generations will be proud to inherit.
+
+[Learn about solarpunk urbanism](https://www.theguardian.com/cities/2019/oct/10/how-solarpunk-art-can-help-inspire-a-climate-action-movement)
