@@ -25,6 +25,11 @@ Cities around the world are transforming their centers into vibrant, people-firs
 - **San Francisco**: [Market Street car-free zone](https://www.sfmta.com/projects/better-market-street)
 - **Montreal**: [Extensive pedestrian streets](https://montreal.ca/en/articles/pedestrian-streets-and-shared-streets-montreal-20679) and bike lanes
 
+### Latin America
+- **Bogotá, Colombia**: [Ciclovía program](https://www.bloomberg.com/news/articles/2020-06-10/bogot-s-ciclov-a-pioneers-pandemic-recovery), weekly car-free Sundays since 1974
+- **Curitiba, Brazil**: [Pedestrian-only downtown](https://www.c40.org/case-studies/curitiba-pioneering-sustainable-urban-planning/), integrated with BRT system
+- **Mexico City**: [Historic center pedestrianization](https://www.bloomberg.com/news/articles/2021-08-05/mexico-city-s-new-cable-car-is-a-ride-out-of-poverty), expanding car-free zones
+
 ### Asia-Pacific
 - **Singapore**: [Car-free Sundays](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Car-Free-Zone) in central business district
 - **Melbourne**: [Little Streets project](https://www.melbourne.vic.gov.au/building-and-development/shaping-the-city/city-projects/Pages/little-streets.aspx)
