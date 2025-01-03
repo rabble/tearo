@@ -59,6 +59,18 @@
 		z-index: 1;
 		border-radius: 4px;
 		margin-top: 0.5rem;
+		padding-top: 0.5rem;
+		padding-bottom: 0.5rem;
+	}
+
+	/* Add padding to create a hoverable area */
+	.dropdown::after {
+		content: '';
+		position: absolute;
+		top: 100%;
+		left: 0;
+		right: 0;
+		height: 20px;
 	}
 
 	.dropdown-content a {
@@ -73,7 +85,8 @@
 		background: rgba(255,255,255,0.1);
 	}
 
-	.dropdown:hover .dropdown-content {
+	.dropdown:hover .dropdown-content,
+	.dropdown-content:hover {
 		display: block;
 	}
 
