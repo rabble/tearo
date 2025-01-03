@@ -88,7 +88,55 @@ description: |
 tags:
   - design
   - infrastructure
+styles: ["/src/styles/living-streets.css"]
 ---
+
+<div class="living-streets-container">
+<div class="key-points">
+
+## Key Points
+
+### What Makes Living Streets Work
+- Prioritize pedestrians
+- Maintain essential access
+- Create shared spaces
+- Slow vehicle speeds
+- Enable community life
+
+### Perfect for Te Aro Because
+- Dense mixed-use area
+- Historic character
+- High pedestrian demand
+- Existing successful examples
+- Strong community need
+
+### Key Design Elements
+- Level surfaces
+- Distinctive paving
+- Traffic calming
+- Street furniture
+- Play spaces
+- Smart loading zones
+
+### Priority Streets
+- Leeds Street
+- Eva Street
+- Egmont Street
+- Frederick Street
+- Marion Street
+
+### Benefits
+- Increased foot traffic
+- Safer neighborhoods
+- Child-friendly spaces
+- Better accessibility
+- Enhanced cycling
+- Maintained access
+- Stronger community
+- Economic growth
+
+</div>
+<div class="main-content">
 
 ## Reimagining Wellington's Soul: The Power of Living Streets
 
@@ -142,3 +190,6 @@ The transformation goes beyond aesthetics. Small [urban food forests](https://ww
 This isn't just a dream—it's a achievable future that builds on Wellington's existing strengths. Our compact city, progressive values, and connection to nature make us the perfect candidate for this transformation. By embracing living streets now, we're not just changing our infrastructure—we're laying the groundwork for a more resilient, sustainable, and vibrant Wellington that future generations will be proud to inherit.
 
 [Learn about solarpunk urbanism](https://www.theguardian.com/cities/2019/oct/10/how-solarpunk-art-can-help-inspire-a-climate-action-movement)
+
+</div>
+</div>
