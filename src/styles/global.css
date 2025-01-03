@@ -83,6 +83,54 @@ h1 {
 	padding: 0.5em 1em;
 	font-weight: 700;
 	text-transform: uppercase;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+
+.button:hover {
+	background: var(--t-active);
+	color: var(--t-bg);
+	border-color: var(--t-active);
+}
+
+.button-primary {
+	background: var(--t-active);
+	color: var(--t-bg);
+	border-color: var(--t-active);
+}
+
+.button-primary:hover {
+	opacity: 0.9;
+}
+
+.hero-cta {
+	display: flex;
+	gap: 1rem;
+	margin-top: 2rem;
+}
+
+.supporters {
+	display: flex;
+	justify-content: space-around;
+	margin: 2rem 0;
+	flex-wrap: wrap;
+	gap: 2rem;
+}
+
+.stat {
+	text-align: center;
+}
+
+.stat .number {
+	display: block;
+	font-size: var(--f-u4);
+	font-weight: 700;
+	color: var(--t-active);
+}
+
+.stat .label {
+	font-size: var(--f-d1);
+	color: var(--t-subdue);
 }
 
 .wrapper {
