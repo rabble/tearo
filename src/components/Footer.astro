@@ -3,23 +3,72 @@ const currentYear = new Date().getFullYear();
 ---
 
 <footer>
-	&copy; {currentYear} TeAro.org
-	<small class="byline">🚀 Built wit love</small>
+	<div class="footer-content">
+		<div class="footer-main">
+			<span class="copyright">&copy; {currentYear} TeAro.org</span>
+			<small class="byline">Built with 🚀 in Pōneke</small>
+		</div>
+		<div class="footer-links">
+			<a href="/about">About</a>
+			<a href="/projects">Articles</a>
+			<a href="https://twitter.com/CarFreeTeAro">Twitter</a>
+		</div>
+	</div>
 </footer>
+
 <style>
 	footer {
-		text-align: center;
-		padding-top: 8rem;
-		padding-right: 2rem;
-		padding-bottom: 4rem;
-		padding-left: 2rem;
+		margin-top: 4rem;
+		padding: 3rem 2rem;
+		background: var(--t-fg);
+		color: var(--t-bg);
+	}
+
+	.footer-content {
+		max-width: 1200px;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.footer-main {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+
+	.copyright {
+		font-size: var(--f-d1);
+		font-weight: 500;
 	}
 
 	.byline {
-		display: block;
-		margin-top: 1rem;
-		color: var(--t-subdue);
 		font-size: var(--f-d2);
-		text-transform: uppercase;
+		opacity: 0.8;
+	}
+
+	.footer-links {
+		display: flex;
+		gap: 2rem;
+	}
+
+	.footer-links a {
+		color: var(--t-bg);
+		text-decoration: none;
+		font-size: var(--f-d1);
+		transition: opacity 0.2s ease;
+	}
+
+	.footer-links a:hover {
+		opacity: 0.8;
+	}
+
+	@media (max-width: 768px) {
+		.footer-content {
+			flex-direction: column;
+			gap: 2rem;
+			text-align: center;
+		}
 	}
 </style>

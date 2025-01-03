@@ -28,19 +28,103 @@ const featuredProject = projects[0]!;
 
 			.hero {
 				position: relative;
-				overflow: hidden;
+				height: 100vh;
+				min-height: 600px;
+				color: white;
 			}
 
-			@media (min-width: 750px) {
-				.hero {
-					height: 45vw;
-				}
+			.hero-image {
+				position: absolute;
+				inset: 0;
 			}
 
 			.img {
-				display: block;
 				width: 100%;
-				height: auto;
+				height: 100%;
+				object-fit: cover;
+			}
+
+			.gradient-overlay {
+				position: absolute;
+				inset: 0;
+				background: linear-gradient(
+					to bottom,
+					rgba(0,0,0,0.4) 0%,
+					rgba(0,0,0,0.8) 100%
+				);
+			}
+
+			.hero-content {
+				position: relative;
+				z-index: 2;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 0 2rem;
+				height: 100%;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				gap: 2rem;
+			}
+
+			.title {
+				display: flex;
+				flex-direction: column;
+				gap: 0.5rem;
+			}
+
+			.subtitle {
+				font-size: var(--f-u2);
+				font-weight: 400;
+				opacity: 0.9;
+			}
+
+			.main-title {
+				font-size: var(--f-u12);
+				font-weight: 900;
+				line-height: 1;
+			}
+
+			.hero-nav {
+				display: flex;
+				gap: 1rem;
+				flex-wrap: wrap;
+			}
+
+			.nav-item {
+				color: white;
+				text-decoration: none;
+				padding: 0.5rem 1rem;
+				border: 1px solid rgba(255,255,255,0.3);
+				border-radius: 4px;
+				transition: all 0.2s ease;
+			}
+
+			.nav-item:hover {
+				background: white;
+				color: var(--t-fg);
+			}
+
+			.hero-text {
+				max-width: 600px;
+				font-size: var(--f-u1);
+				line-height: 1.6;
+			}
+
+			.hero-text p {
+				margin-bottom: 1rem;
+			}
+
+			@media (max-width: 768px) {
+				.main-title {
+					font-size: var(--f-u8);
+				}
+				
+				.hero-content {
+					padding: 0 1rem;
+					text-align: center;
+					align-items: center;
+				}
 			}
 
 			.gradient,
@@ -203,35 +287,36 @@ const featuredProject = projects[0]!;
 	<body>
 		<Nav />
 		<header class="hero">
-			<img
-				width="1600"
-				height="1131"
-				class="img"
-				src="/assets/cuba_street.webp"
-				srcset="/assets/cuba_street.webp 800w,/assets/cuba_street.webp  1200w,/assets/cuba_street.webp 1600w,/assets/cuba_street.webp 2400w"
-				sizes="(max-width: 800px) 800px, (max-width: 1200px) 1200px, (max-width: 1600px) 1600px, (max-width: 2400px) 2400px, 1200px"
-			/>
-			<div class="gradient"></div>
-			<div class="gradient2"></div>
-			<div class="overlay">
+			<div class="hero-image">
+				<img
+					width="1600"
+					height="1131"
+					class="img"
+					src="/assets/cuba_street.webp"
+					srcset="/assets/cuba_street.webp 800w,/assets/cuba_street.webp 1200w,/assets/cuba_street.webp 1600w,/assets/cuba_street.webp 2400w"
+					sizes="100vw"
+					alt="Cuba Street Wellington"
+				/>
+				<div class="gradient-overlay"></div>
+			</div>
+			
+			<div class="hero-content">
 				<h1 class="title">
-					<small class="subtitle">Te Aro, Pōneke</small>Car Free
+					<span class="subtitle">Te Aro, Pōneke</span>
+					<span class="main-title">Car Free Future</span>
 				</h1>
-				<div class="roles">
-					<a href="/project/why-car-free"><span class="role">Why Car Free<span class="invert">Why Car Free</span></span></a>
-					<a href="/project/other-cities"><span class="role">Other Cities <span class="invert">Other Cities</span></span></a>
-					<a href="/project/what-about-businesses"><span class="role">Business Impact <span class="invert">Business Impact</span></span></a>
-					<a href="/project/why-car-free"><span class="role">Research <span class="invert">Research</span></span></a>
+				
+				<nav class="hero-nav">
+					<a href="/project/why-car-free" class="nav-item">Why Car Free</a>
+					<a href="/project/other-cities" class="nav-item">Other Cities</a>
+					<a href="/project/what-about-businesses" class="nav-item">Business Impact</a>
+					<a href="/project/research" class="nav-item">Research</a>
+				</nav>
+
+				<div class="hero-text">
+					<p>Around the world, cities are transforming their centers into car-free zones, creating vibrant spaces for people to live, work and play.</p>
+					<p>It's time for Te Aro to join this global movement.</p>
 				</div>
-				<p class="desc">Around the world cities are removing cars from their downtown core. 
-					This has lead to an flurishing of urban life. A car free city good 
-					for people, the environment, and businesses.</p>
-				<p class="desc">It is time that street parking be eliminated from all streets in Te Aro. 
-					Limited parking spots for people with mobility permits and for businesses to load / unload 
-					deliveries should be the only on street parking allowed.</p>
-				<p class="desc">Most streets in Te Aro should be converted to pedestrian only or living streets. 
-					Living streets like the lowest section of cuba street but without parking, allows cars to pass through, but without
-				engangering people. </p>
 			</div>
 		</header>
 		<main class="wrapper">
