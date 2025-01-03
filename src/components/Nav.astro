@@ -2,8 +2,22 @@
 	<a class="link" href="/">
 		<div class="monogram">🏠</div>
 	</a>
-	<a class="link" href="/projects/"> Articles</a>
-	<a class="link" href="/about/"> About</a>
+	
+	<div class="nav-items">
+		<div class="dropdown">
+			<a class="link" href="/projects/">Articles ▾</a>
+			<div class="dropdown-content">
+				<a href="/project/golden-mile">Golden Mile Project</a>
+				<a href="/project/living-streets">Living Streets</a>
+				<a href="/project/climate-action">Climate Action</a>
+				<a href="/project/why-car-free">Why Car Free?</a>
+				<a href="/project/what-about-businesses">Business Impact</a>
+				<a href="/project/other-cities">Other Cities</a>
+			</div>
+		</div>
+		<a class="link" href="/about/">About</a>
+	</div>
+
 	<div class="socials">
 		<a class="social" href="https://twitter.com/CarFreeTeAro">
 			<svg class="socialIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -21,6 +35,46 @@
 		gap: 1rem;
 		align-items: center;
 		padding: 1rem;
+		background: var(--t-fg);
+		color: var(--t-bg);
+	}
+
+	.nav-items {
+		display: flex;
+		gap: 1rem;
+		align-items: center;
+	}
+
+	.dropdown {
+		position: relative;
+		display: inline-block;
+	}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background: var(--t-fg);
+		min-width: 200px;
+		box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+		z-index: 1;
+		border-radius: 4px;
+		margin-top: 0.5rem;
+	}
+
+	.dropdown-content a {
+		color: var(--t-bg);
+		padding: 0.75rem 1rem;
+		text-decoration: none;
+		display: block;
+		transition: background 0.2s ease;
+	}
+
+	.dropdown-content a:hover {
+		background: rgba(255,255,255,0.1);
+	}
+
+	.dropdown:hover .dropdown-content {
+		display: block;
 	}
 
 	.link {
