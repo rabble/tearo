@@ -16,8 +16,8 @@ const projects = (await Astro.glob<Project>('./project/**/*.md'))
 <html lang="en">
 	<head>
 		<MainHead
-			title="All Articles | Car Free Te Aro"
-			description="Articles adovcating for a car free Te Aro"
+			title="Articles | Car Free Te Aro"
+			description="Articles advocating for a car free Te Aro"
 		/>
 		<style>
 			.grid {
@@ -48,7 +48,7 @@ const projects = (await Astro.glob<Project>('./project/**/*.md'))
 			<h1 class="title">All Articles</h1>
 			<div class="grid">
 				<div class="section">
-					<h2>Current Projects</h2>
+					<h2>Current Initiatives</h2>
 					<div class="cards">
 						{projects.filter(project => 
 							project.frontmatter.tags.some(tag => ["current", "infrastructure"].includes(tag))
