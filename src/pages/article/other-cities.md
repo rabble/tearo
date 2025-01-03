@@ -12,7 +12,11 @@ tags:
 
 ## Global Movement Toward Car-Free Cities
 
-Cities around the world are transforming their centers into vibrant, people-first spaces:
+The transformation of urban spaces from car-dominated thoroughfares to vibrant, people-first environments is one of the most exciting developments in modern city planning. This isn't just about removing cars—it's about [reclaiming our cities for human life](https://www.theguardian.com/cities/2016/apr/28/story-cities-32-jane-jacobs-new-york-greenwich-village-robert-moses), culture, and community. For over half a century, our cities have been designed around automobiles, creating pollution, noise, and barriers that fragment our communities. Now, a [growing movement of urban innovators](https://www.c40.org/what-we-do/scaling-up-climate-action/transportation/car-free-streets/) is proving that there's a better way.
+
+Cities worldwide are discovering that removing cars doesn't just reduce emissions and improve air quality—it fundamentally transforms urban life. [Research consistently shows](https://www.sciencedirect.com/science/article/pii/S2214140518301488) that car-free areas boost local businesses, improve public health, and create more socially connected communities. When streets are returned to people, they become living spaces rather than just transit corridors. Children play, neighbors meet, cafes spill onto sidewalks, and cultural life flourishes in ways that were impossible when cars dominated.
+
+The success stories span every continent, climate, and culture. From European pioneers to bold initiatives in Latin America and Asia, these transformations prove that car-free cities aren't just a dream—they're an achievable reality that's already improving lives around the world:
 
 ### Europe
 - **Oslo, Norway**: [Removed nearly all parking from city center](https://www.bloomberg.com/news/articles/2019-09-19/oslo-isn-t-removing-all-of-its-parking-spaces-yet), increased retail activity
